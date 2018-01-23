@@ -31,3 +31,7 @@ https://github.com/lecovi/codeblocks-pygments
 ## Book
 
 https://en.wikibooks.org/wiki/LaTeX
+
+## TexStudio options
+
+![TexStudio Options](img/TexStudio_options.png)
