@@ -10,6 +10,8 @@ texlive-xetex texlive-math-extra texlive-bibtex-extra texlive-fonts-extra
 ```
 ## Fedora installation
 
+Interesting link: https://unix.stackexchange.com/questions/199638/how-to-fully-install-latex-in-fedora
+
 ```console
 dnf install texstudio texlive-collection-latexextra \
 texlive-collection-latexrecommended texlive-collection-fontsrecommended \
